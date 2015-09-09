@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-09-09T10:30:15+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New_blog]]></title>
+    <link href="http://yoursite.com/blog/2015/09/09/new-blog/"/>
+    <updated>2015-09-09T10:28:56+08:00</updated>
+    <id>http://yoursite.com/blog/2015/09/09/new-blog</id>
+    <content type="html"><![CDATA[<h1>new blog</h1>
+
+<p><a href="http://ruby.taobao.org/">http://ruby.taobao.org/</a></p>
+]]></content>
+  </entry>
+  
+</feed>
